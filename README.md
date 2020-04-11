@@ -6,7 +6,7 @@ McNative is an extensive Minecraft server framework. It combines proxy and servi
 **McNative is currently in alpha state, McNative will be open for developers in the beta state**
 
 ### Wiki
-Checkour the McNative Wiki page.
+Checkout the McNative Wiki page.
   * [Wiki](https://github.com/McNative/McNative/wiki)
 
 ### For Administrators 
